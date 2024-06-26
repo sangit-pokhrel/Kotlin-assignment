@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996281989655",
+    "project_id": "b-koltin",
+    "storage_bucket": "b-koltin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996281989655:android:6a747d73f2d66fe137fa52",
+        "android_client_info": {
+          "package_name": "com.example.crud_34b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXGekjWiyOQXwlFNAWJsCYKEN37YUEpYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
